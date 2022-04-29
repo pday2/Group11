@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>44.7768356_-1.1425696.png</filename>
+	<path>/home/muddy/Tresors/Documentsacer/KULeuven/AdvAnaBusi/A2/Images/44.7768356_-1.1425696.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>186</ymin>
+			<xmax>315</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
