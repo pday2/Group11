@@ -1,0 +1,24 @@
+To start jupyter notebooks...
+C:\Users\peter\Documents\spark\spark
+open spark dir
+run lets_go
+
+
+included in notebooks/local_proxy.py
+python local_proxy.py channel1 [more channels]
+
+xQcOW
+summit1g
+in C:\Users\peter\Documents\spark\spark\notebooks>
+python local_proxy.py xQcOW summit1g
+
+
+ON Linux desktop
+go to /home/muddy/Documents/spark/spark
+run start.sh
+open /notebooks/A3.ipynb
+copy messages.csv to /home/muddy/Documents/spark/spark/notebooks
+
+
+Work on files in 
+cd /home/muddy/Documents/spark/spark/notebooks
