@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blech</folder>
+	<filename>43.5904816_1.4662394.png</filename>
+	<path>/home/muddy/Documents/AdvAna/blech/43.5904816_1.4662394.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>191</ymin>
+			<xmax>305</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

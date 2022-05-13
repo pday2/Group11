@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>43.6780287_1.5431753.png</filename>
+	<path>/home/muddy/Tresors/Documentsacer/KULeuven/AdvAnaBusi/TFODCourse/Tensorflow/workspace/images/test/43.6780287_1.5431753.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>213</ymin>
+			<xmax>299</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
