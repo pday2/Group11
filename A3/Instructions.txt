@@ -3,6 +3,10 @@ C:\Users\peter\Documents\spark\spark
 open spark dir
 run lets_go
 
+Linux, go to 
+cd /home/muddy/Documents/spark/spark
+run ./start.sh
+
 
 included in notebooks/local_proxy.py
 python local_proxy.py channel1 [more channels]
